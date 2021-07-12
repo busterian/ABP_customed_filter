@@ -1,0 +1,27 @@
+[Adblock Plus 2.0]
+! Checksum: 
+! Version: 
+! Title: Custom1
+! Last modified: 
+! Expires: 
+! Homepage: 
+!
+! EasyList 
+!
+! *** custom1.txt ***
+! Please report any unblocked adverts or problems
+! in the forums (http://abpchina.org/forum/)
+! or via e-mail (easylist.china@gmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+
+bilibili.com##.bilibili-player-video-toast-wrp
+bilibili.com###bili_cheese
+bilibili.com##.first-screen.b-wrap
+bilibili.com##.login-tip
+bilibili.com##.unlogin-popover.unlogin-popover-avatar
+bilibili.com##[class="blur-bg"]
+bilibili.com##[id="chief_recommend"]
+bilibili.com##[id="bili_live"]
+bilibili.com##[id="home_popularize"]
+
