@@ -25,3 +25,18 @@ bilibili.com##[id="chief_recommend"]
 bilibili.com##[id="bili_live"]
 bilibili.com##[id="home_popularize"]
 
+adnmb3.com##.h-threads-item-replys
+adnmb3.com#?#div:-abp-has(> blockquote#text :-abp-contains(跑团))
+adnmb3.com#?#div:-abp-has(> div.h-threads-info > span.h-threads-info-title:-abp-contains(广告))
+adnmb3.com#?#div:-abp-has(> div.h-threads-item-main > div.h-threads-content:-abp-contains(atm))
+adnmb3.com#?#div:-abp-has(> div > div.h-threads-info:-abp-contains(买买买))
+adnmb3.com#?#div:-abp-has(> div > div.h-threads-info:-abp-contains(LOL))
+adnmb3.com#?#div:-abp-has(> div > div.h-threads-info:-abp-contains(跑团))
+adnmb2.com#?#div:-abp-has(>div.h-threads-item-main>div.h-threads-info>span.h-threads-info-uid[style="color: rgb(255, 0, 0)"])
+
+douyu.com##.AppFlow-bgImg
+douyu.com##.AppFlow.is-show
+wenku.baidu.com##.baiduwenku_helper_copy_onepage
+
+komica.org#?#div:-abp-has(>div.post.threadpost>div.quote:-abp-contains(香港))
+komica.org#?#div:-abp-has(>div.post.threadpost>div.quote:-abp-contains(支))
