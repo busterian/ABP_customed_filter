@@ -25,7 +25,6 @@ bilibili.com##[id="chief_recommend"]
 bilibili.com##[id="bili_live"]
 bilibili.com##[id="home_popularize"]
 
-adnmb3.com##.h-threads-item-replys
 adnmb3.com#?#div:-abp-has(> div.h-threads-info > span.h-threads-info-title:-abp-contains(广告))
 adnmb3.com#?#div:-abp-has(> div.h-threads-item-main > div.h-threads-content:-abp-contains(atm))
 adnmb3.com#?#div:-abp-has(> div > div.h-threads-info:-abp-contains(买买买))
